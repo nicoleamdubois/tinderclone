@@ -6,8 +6,9 @@ function Header() {
   return (
     <div className="header">
         <PersonIcon/>
+        <img src='https://cdn-icons.flaticon.com/png/512/4325/premium/4325956.png?token=exp=1656545554~hmac=1281912f439b5cf4bbb1128252cc9bd5' alt='tinder style logo' />
         <ChatBubbleIcon />
-        <h2>I am a header</h2>
+        
     </div>
   )
 }

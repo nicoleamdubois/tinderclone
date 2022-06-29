@@ -1,4 +1,5 @@
 .header {
     display:flex;
     justify-content: space-between;
+    border-bottom: 1px rgb(207, 205, 205)
 }
