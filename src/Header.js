@@ -5,11 +5,11 @@ import './Header.css';
 function Header() {
   return (
     <div className="header">
-        <PersonIcon fontSize='large'/>
+        <PersonIcon className="header_icon" fontSize='large'/>
         <img 
         className='header__logo'
-        src='https://cdn-icons.flaticon.com/png/512/4325/premium/4325956.png?token=exp=1656545554~hmac=1281912f439b5cf4bbb1128252cc9bd5' alt='tinder style logo' />
-        <ChatBubbleIcon fontSize='large'/>
+        src='https://www.flaticon.com/premium-icon/flames_4325956?term=flame&page=1&position=3&page=1&position=3&related_id=4325956&origin=tag'alt='tinder style logo' />
+        <ChatBubbleIcon className="header_icon" fontSize='large'/>
         
     </div>
   )
