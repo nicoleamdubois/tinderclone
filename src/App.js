@@ -4,8 +4,6 @@ import Header from './Header';
 function App() {
   return (
     <div className="App">
-    <h1>Lets build the tinder clone app!</h1>
-
     <Header />
     {/* Tinder Cards */}
     {/* Buttons below tinder cards */}
